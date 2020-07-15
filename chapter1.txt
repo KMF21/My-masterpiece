@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alien troops ahead, lets move on.
+=======
+alien troops behind, lets move aside.
+>>>>>>> alien-plot

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is the age of understanding, it is the age of pity.
+=======
+it is the age of computers, it is the age of security.
+>>>>>>> alien-plot
